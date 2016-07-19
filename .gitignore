@@ -1,0 +1,9 @@
+# emacs detritus
+*~
+*#
+
+# ignore output of md 
+README.html
+
+# Not sure why this showed up
+Thumbs.db
