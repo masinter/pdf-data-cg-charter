@@ -12,6 +12,16 @@
 
 The PDF and Open Data Community Group will work to define methods of storing and retrieving (linked open) data to and from PDF files, elevating the PDF format from a "one-star" to "five-star" [open data format](http://5stardata.info/en/). Much of the world's data is already stored in PDFs, but the format's limited innate data retrieval capabilities hold back open data as a whole. Deliverables and specifications produced by this group will help overcome this limitation.
 
+Complete tooling for open data in PDFs should be able to extract and act upon the following objects:
+
+* Images, including captions.
+* Data tables (see [CSV on the Web WG](https://www.w3.org/2013/csvw/wiki/Main_Page)).
+* Document text, including markup.
+* Tables of contents and indices for the document.
+* Annotations (see [Annotations WG](https://www.w3.org/annotation/)).
+* Citations (see [Force 11 guidelines](https://www.force11.org/group/joint-declaration-data-citation-principles-final)).
+* Typed objects within the document, using RDFa and Schema.org to disambiguate and help machines understand document content.
+
 ## Scope of Work
 
 The Community Group will produce specifications and tooling targeted at producers and consumers of data, with the intention of standardizing the storage of linked open data within PDFs, without making the job of the publisher more difficult. This means that any method used to store data must be simple and versatile enough not to require modification of the data before storage, while still being easy for users to extract and interpret. Additionally, test cases should demonstrate a broad range of uses, mirroring the broad range of applications for data PDFs in the real world. Tooling needs to be adapted to cover the majority of cases out of the box.
