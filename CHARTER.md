@@ -14,9 +14,10 @@ The PDF and Open Data Community Group will work to define methods of storing and
 
 ## Scope of Work
 
-* use cases
-* requirements
-* review of open source and commercial tools useful for open data
+The Community Group will produce specifications and tooling targeted at producers and consumers of data, with the intention of standardizing the storage of linked open data within PDFs, without making the job of the publisher more difficult. This means that any method used to store data must be simple and versatile enough not to require modification of the data before storage, while still being easy for users to extract and interpret. Additionally, test cases should demonstrate a broad range of uses, mirroring the broad range of applications for data PDFs in the real world. Tooling needs to be adapted to cover the majority of cases out of the box.
+
+Useful tools for open data include: {{need to add more info here!}}
+
 * resolve technical questions
 * XMP vs. attached files
 * advanced capabilities
@@ -27,7 +28,10 @@ The PDF and Open Data Community Group will work to define methods of storing and
 
 ### Out of Scope
 
-{NONE Listed}
+Two major elements are out of the scope of this group:
+
+* Reinventing the OCR wheel. OCR for PDF already exists, built into Adobe Acrobat, and that capability can be leveraged to extract data if needed. Designing custom automatic data extraction and text recognition for open data is outside of this group's scope.
+* Prescribing any specific implementation of open data in PDFs. While this group seeks to build standards and test cases, it does not seek to push any particular implementation on producers or users.
 
 ## Deliverables
 
