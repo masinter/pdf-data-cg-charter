@@ -62,6 +62,8 @@ The group may produce other Community Group Reports within the scope of this cha
 
 ### Test Suites and Other Software
 
+Test suites and example implementations of parts of the standard should be produced within the scope of the project. [PDFData](https://github.com/Aiybe/PDFData) currently serves as this purpose, providing an implementation of data storage in PDF, accessible as a library, from the command line, or through a web service, as well as a number of example datasets and documents for testing.
+
 examples
 a test suite
 
