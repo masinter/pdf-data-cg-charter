@@ -1,16 +1,12 @@
-"# pdf data charter" 
+# PDF and Open Data Community Group
 
-This repo is for the charter of a proposed W3C community group.
+This repo is for developing the charter of a proposed W3C community group.
 
-PDF has a reputation of being bad for ‘open data’, but there are already features of PDF that can be used for storing and retrieving data associated with parts of a PDF file, and more features coming.
+https://www.w3.org/community/blog/2016/07/17/proposed-group-pdf-and-open-data-community-group/
 
-charter should cover:
+See [CHARTER.md] for draft charter.
 
-* Establish requirements for open data
-* Use "CSV on the web" as a source of use cases
-* Review proof of concept implementation
 
-https://github.com/masinter/pdf-data-cg-charter
-
+This repo is https://github.com/masinter/pdf-data-cg-charter
 
 
