@@ -10,7 +10,7 @@
 
 ## Goals
 
-Demonstrate use of PDF to publish documents with (linked) open data.
+The PDF and Open Data Community Group will work to define methods of storing and retrieving (linked open) data to and from PDF files, elevating the PDF format from a "one-star" to "five-star" [open data format](http://5stardata.info/en/). Much of the world's data is already stored in PDFs, but the format's limited innate data retrieval capabilities hold back open data as a whole. Deliverables and specifications produced by this group will help overcome this limitation.
 
 ## Scope of Work
 
