@@ -47,12 +47,9 @@ Two major elements are out of the scope of this group:
 
 ### Specifications
 
-We imagine producing a document:
+We imagine producing a document: Guidelines for Linked Open Data and PDF. This document would detail methods of data storage in PDF documents, explain what tooling would have to accomplish, and create a set of guidelines for the basic process of storing and retrieving data to and from PDFs.
 
-* Guidelines for Linked Open Data and PDF
-
-
-{TBD: Provide a brief description of each specification the group plans to produce. Where an estimate is possible, it can be useful to provide an estimated schedule for key deliverables. As described below, the group may later modify the charter deliverables. if no specifications, include: "No Specifications will be produced under the current charter."}
+We hope to complete it in a timely manner, but no specific timeframe has been set yet.
 
 ### Non-Normative Reports
 
@@ -62,12 +59,7 @@ The group may produce other Community Group Reports within the scope of this cha
 
 ### Test Suites and Other Software
 
-Test suites and example implementations of parts of the standard should be produced within the scope of the project. [PDFData](https://github.com/Aiybe/PDFData) currently serves as this purpose, providing an implementation of data storage in PDF, accessible as a library, from the command line, or through a web service, as well as a number of example datasets and documents for testing.
-
-examples
-a test suite
-
-{TBD: If there are no plans to create a test suite or other software, please state that and remove the following paragraph. If Github is not being used, then indicate where the license information is. If GitHub is being used link to your LICENSE.md file in the next paragraph.}
+Test suites and example implementations of parts of the standard should be produced within the scope of the project. [PDFData](https://github.com/Aiybe/PDFData) currently serves as this purpose, providing an implementation of data storage in PDF (accessible as a library, from the command line, or through a web service), as well as a number of example datasets and documents for testing.
 
 The group MAY produce test suites to support the Specifications. Please see the GitHub LICENSE file for test suite contribution licensing information.
 
@@ -92,8 +84,6 @@ The group will not publish Specifications on topics other than those listed unde
 Substantive Contributions to Specifications can only be made by Community Group Participants who have agreed to the [W3C Community Contributor License Agreement (CLA)](http://www.w3.org/community/about/agreements/cla/).
 
 Specifications created in the Community Group must use the [W3C Software and Document License](http://www.w3.org/Consortium/Legal/2015/copyright-software-and-document). All other documents produced by the group should use that License where possible.
-
-{TBD: if CG doesn't use GitHub replace the remaining paragraphs in this section with: "All Contributions are made on the groups public mail list or public contrib list"}
 
 Community Group participants agree to make all contributions in the GitHub repo the group is using for the particular document. This may be in the form of a pull request (preferred), by raising an issue, or by adding a comment to an existing issue.
 
