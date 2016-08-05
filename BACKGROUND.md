@@ -45,7 +45,12 @@ Complete tooling for open data in PDFs should be able to extract and act upon th
 
 "Accessibility" is used to describe the usability of software and content by those with some form of disability. There are guidelines for software, authoring tools, and general erquirements for accessibility of Web Content (WCAG, Web Content Accessibility Guidelinese).
 
-There are also W3C Notes that descibe best practicis for various file formats, including one for PDF.
+
+
+There are also W3C Notes that descibe best practices for various file formats, including  PDF:
+* [Techniques for WCAG 2.0](http://www.w3.org/TR/2014/NOTE-WCAG20-TECHS-20140408/Overview.html)
+* [PDF Techniques for WCAG 2.0](https://www.w3.org/TR/2014/NOTE-WCAG20-TECHS-20140408/pdf).
+
 
 In addition, there is  a profile of PDF for accessibile content, called PDF/UA.
 
@@ -55,5 +60,7 @@ Many of the organizations desiring or requiring publication (Government, Financi
 
 Similarly, there is a profile of PDF, PDF/A, which was designed to hold archival documents, and the process of taking a PDF and making it suitable for long-term archiving.
 
-The CG should review WDAG, PDF/UA, PDF/A for recommended use of accessibility features to (compatiblly) connect the two applications.
+The guidelines should explicitly idenetify the common requirements and solutions.
+For example, PDF/UA requires all readab;e text be determinable by including a requiremenet for (readdability).
+ 
 
