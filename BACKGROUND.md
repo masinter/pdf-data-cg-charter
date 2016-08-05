@@ -35,5 +35,8 @@ Complete tooling for open data in PDFs should be able to extract and act upon th
 * Should there be a manifest (metadata which says where/how validated data appears)?
 * What parts of PDF/A3 or PDF/UA should be referenced in the guidelines?
 
+## Example implementations
 
+* [PDFData](https://github.com/Aiybe/PDFData) is a "proof of concept" example, providing an implementation of data storage in PDF (accessible as a library, from the command line, or through a web service), as well as example datasets and documents for testing.
 
+* [Tabula](https://github.com/tabulapdf/tabula) is a  sample implementation which makes other assumptions.

@@ -40,9 +40,7 @@ The primary deliverable will be a NOTE
 
 * Guidelines for (Linked) (Open) Data and PDF
 
-which will includes relevant material outlined in [BACKGROUND.md](BACKGROUND) and resolving issues that arise. The document would detail methods of data storage in PDF documents, explain what tooling would have to accomplish, and create a set of guidelines for the basic process of storing and retrieving data to and from PDFs.
-
-Ideally, the group will proceed quickly and be done with the topics in this charter within six month. 
+which will includes relevant material outlined in [BACKGROUND](BACKGROUND.md) and resolving issues that arise. The document would detail methods of data storage in PDF documents, explain what tooling would have to accomplish, and create a set of guidelines for the basic process of storing and retrieving data to and from PDFs.
 
 ### Non-Normative Reports
 
@@ -50,13 +48,19 @@ The group may produce other Community Group Reports within the scope of this cha
 
 ### Test Suites and Other Software
 
-Test suites and example implementations of parts of the standard should be produced within the scope of the project. [PDFData](https://github.com/Aiybe/PDFData) is a "proof of concept" example, providing an implementation of data storage in PDF (accessible as a library, from the command line, or through a web service), as well as example datasets and documents for testing.
+Test suites and example implementations (produced within the scope of the project) may be submitted as Contributions. (Some possible related implementations are discussed in [BACKGROUND](BACKGROUND.md).
+The group MAY produce test suites to support its work. Please see the GitHub LICENSE file for test suite and software contribution licensing information.
 
-The group MAY produce test suites to support the Specifications. Please see the GitHub LICENSE file for test suite contribution licensing information.
+### Schedule and Meetings
+
+* The group should focus on completing an initial draft of the Guidelines within six months. The charter and schedule should be revised then with a realistic plan for next steps to accomplish the Deliverables.
+* Subject to agreement, the group should  meet weekly (via phone, IRC, or other etools)
+* The group should schedule a meeting at TPAC.
+
 
 ## Dependencies or Liaisons
 
-Liaison with ISO PDF group
+* Liaison with ISO PDF group
 
 ## Community and Business Group Process
 
