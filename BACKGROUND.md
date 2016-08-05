@@ -14,7 +14,7 @@ PDF can store data above and beyond the presentation information:
 * XMP: document metadata is stored in PDF using a syhtax based don an older style of RDF. It is a requirement of PDF/A 
 * Tagged PDF
 * File attachments
-
+* Annotations
 
 ## Types of data which should be extractable
 

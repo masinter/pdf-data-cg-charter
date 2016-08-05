@@ -36,10 +36,13 @@ Out of the scope of this group:
 
 ### Specifications
 
-We imagine a single document
+The primary deliverable will be a NOTE
+
 * Guidelines for (Linked) (Open) Data and PDF
 
-which includes the relevant material outlined in [BACKGROUND.md] and resolving the issues mentioned there. This document would detail methods of data storage in PDF documents, explain what tooling would have to accomplish, and create a set of guidelines for the basic process of storing and retrieving data to and from PDFs.
+which will includes relevant material outlined in [BACKGROUND.md](BACKGROUND) and resolving issues that arise. The document would detail methods of data storage in PDF documents, explain what tooling would have to accomplish, and create a set of guidelines for the basic process of storing and retrieving data to and from PDFs.
+
+Ideally, the group will proceed quickly and be done with the topics in this charter within six month. 
 
 ### Non-Normative Reports
 
