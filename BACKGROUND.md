@@ -55,4 +55,5 @@ Many of the organizations desiring or requiring publication (Government, Financi
 
 Similarly, there is a profile of PDF, PDF/A, which was designed to hold archival documents, and the process of taking a PDF and making it suitable for long-term archiving.
 
+The CG should review WDAG, PDF/UA, PDF/A for recommended use of accessibility features to (compatiblly) connect the two applications.
 
