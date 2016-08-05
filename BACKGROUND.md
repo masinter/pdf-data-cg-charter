@@ -40,3 +40,19 @@ Complete tooling for open data in PDFs should be able to extract and act upon th
 * [PDFData](https://github.com/Aiybe/PDFData) is a "proof of concept" example, providing an implementation of data storage in PDF (accessible as a library, from the command line, or through a web service), as well as example datasets and documents for testing.
 
 * [Tabula](https://github.com/tabulapdf/tabula) is a  sample implementation which makes other assumptions.
+
+## Relationship to Accessibility and archivability
+
+"Accessibility" is used to describe the usability of software and content by those with some form of disability. There are guidelines for software, authoring tools, and general erquirements for accessibility of Web Content (WCAG, Web Content Accessibility Guidelinese).
+
+There are also W3C Notes that descibe best practicis for various file formats, including one for PDF.
+
+In addition, there is  a profile of PDF for accessibile content, called PDF/UA.
+
+Accessibility and "open data" are related; think of "open data" as accessibility for robots. There is some overlap in the requirements for accessible content and the requirements for open data, including the ability to read document content in correct order, and the availability of text in Unicode.
+
+Many of the organizations desiring or requiring publication (Government, Financial, Health Care, STEM publishing) require both PDF/UA and Open Data. 
+
+Similarly, there is a profile of PDF, PDF/A, which was designed to hold archival documents, and the process of taking a PDF and making it suitable for long-term archiving.
+
+
