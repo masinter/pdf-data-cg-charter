@@ -7,6 +7,7 @@
 The following resources provide some background about PDF and its data capabilities:
 * XMP ISO standard {TBD}
 * RFC of PDF MIME type {TBD, point to new internet draft)
+
 ## PDF capabilities
 
 PDF can store data above and beyond the presentation information:
